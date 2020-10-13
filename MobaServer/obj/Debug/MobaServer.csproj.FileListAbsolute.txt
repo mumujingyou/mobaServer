@@ -24,3 +24,12 @@ E:\Unity\Mianshi\Moba3\SourceCode\MobaServer\MobaServer\obj\Debug\MobaServer.csp
 E:\Unity\Mianshi\Moba3\SourceCode\MobaServer\MobaServer\obj\Debug\MobaServer.csproj.CopyComplete
 E:\Unity\Mianshi\Moba3\SourceCode\MobaServer\MobaServer\obj\Debug\MobaServer.exe
 E:\Unity\Mianshi\Moba3\SourceCode\MobaServer\MobaServer\obj\Debug\MobaServer.pdb
+E:\Unity\Mianshi\Moba\MobaServer\MobaServer\bin\Debug\MobaServer.exe.config
+E:\Unity\Mianshi\Moba\MobaServer\MobaServer\bin\Debug\MobaServer.exe
+E:\Unity\Mianshi\Moba\MobaServer\MobaServer\bin\Debug\MobaServer.pdb
+E:\Unity\Mianshi\Moba\MobaServer\MobaServer\bin\Debug\MySql.Data.dll
+E:\Unity\Mianshi\Moba\MobaServer\MobaServer\obj\Debug\MobaServer.csprojAssemblyReference.cache
+E:\Unity\Mianshi\Moba\MobaServer\MobaServer\obj\Debug\MobaServer.csproj.CoreCompileInputs.cache
+E:\Unity\Mianshi\Moba\MobaServer\MobaServer\obj\Debug\MobaServer.csproj.CopyComplete
+E:\Unity\Mianshi\Moba\MobaServer\MobaServer\obj\Debug\MobaServer.exe
+E:\Unity\Mianshi\Moba\MobaServer\MobaServer\obj\Debug\MobaServer.pdb

@@ -13,7 +13,7 @@ namespace MobaServer.Net
     {
         UdpClient socket;//socket通信
 
-        string ip = "192.168.1.103";
+        string ip = "127.0.0.1";
         int port = 8899;
 
         Action<BufferEntity> dispatchNetEvent;

@@ -1,0 +1,2 @@
+E:\Unity\Mianshi\Moba\MobaServer\MobaServer\obj\Release\MobaServer.csprojAssemblyReference.cache
+E:\Unity\Mianshi\Moba\MobaServer\MobaServer\obj\Release\MobaServer.csproj.CoreCompileInputs.cache
